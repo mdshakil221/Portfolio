@@ -1,0 +1,13 @@
+nav ul {
+  list-style: none;
+  display: flex;
+  gap: 20px;
+}
+
+nav ul li {
+  display: inline;
+}
+nav ul li a{
+  text-decoration: none;
+  font-weight: bold;
+}
